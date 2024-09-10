@@ -26,7 +26,3 @@ This project aims to enhance road safety and emergency response efficiency by pr
 - **Accident Hotspot Prediction:** Identify locations with a high probability of accidents based on historical data.
 - **Emergency Response Optimization:** Predict optimal response times and strategies to enhance emergency response efficiency.
 - **Large-Scale Data Handling:** Utilize Big Data technologies and scalable solutions to process and analyze large datasets.
-
-## Contact
-
-For further information or inquiries, please contact [Senin Farheen](seninfarheen@gmail.com).
